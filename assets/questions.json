@@ -1,0 +1,2577 @@
+[
+  {
+    "question": "Are you ever afraid following your heart might lead you down the wrong path?",
+    "category": 2,
+    "type": "aspirations"
+  },
+  {
+    "question": "What type of lessons do you think you'll learn in the next 5 years?",
+    "category": 2,
+    "type": "aspirations"
+  },
+  {
+    "question": "Show your partner a song or a scene from a film that made you shed tears.",
+    "category": 2,
+    "type": "character"
+  },
+  {
+    "question": "What do you wish you cared less about?",
+    "category": 2,
+    "type": "character"
+  },
+  {
+    "question": "What's changed about you the most since graduating high school?",
+    "category": 2,
+    "type": "character"
+  },
+  {
+    "question": "What do you think is the most interesting part of your personality?",
+    "category": 2,
+    "type": "character"
+  },
+  {
+    "question": "If you went to a therapist today, what would they say you're holding back on the most?",
+    "category": 2,
+    "type": "character"
+  },
+  {
+    "question": "Do you ever worry that you're completely different to everybody else?",
+    "category": 2,
+    "type": "character"
+  },
+  {
+    "question": "Would you rather other people be blunt and straightforward to you, or be softer and more empathetic?",
+    "category": 2,
+    "type": "character"
+  },
+  {
+    "question": "What age would you like to be for the rest of your life?",
+    "category": 2,
+    "type": "character"
+  },
+  {
+    "question": "What's one common saying that's so out of character for you to adopt?",
+    "category": 2,
+    "type": "character"
+  },
+  {
+    "question": "What do you dislike the most about yourself?",
+    "category": 2,
+    "type": "character"
+  },
+  {
+    "question": "Is there any piece of negative feedback that would absolutely crush you if you heard it from another person?",
+    "category": 2,
+    "type": "character"
+  },
+  {
+    "question": "What do you wish you were better at doing?",
+    "category": 2,
+    "type": "character"
+  },
+  {
+    "question": "How do you think your parents would describe you as a child?",
+    "category": 2,
+    "type": "past"
+  },
+  {
+    "question": "If you had to repeat any year of your life, what year would you relive?",
+    "category": 2,
+    "type": "past"
+  },
+  {
+    "question": "If you could share a past moment you had with a friend, what would you show them? What makes that moment so significant to you?",
+    "category": 2,
+    "type": "past"
+  },
+  {
+    "question": "Have you ever had a dream that taught you something unexpected?",
+    "category": 2,
+    "type": "past"
+  },
+  {
+    "question": "Have you done anything really stupid that in retrospect taught you a lot?",
+    "category": 2,
+    "type": "past"
+  },
+  {
+    "question": "What's the darkest moment you've experienced that you've never told anybody?",
+    "category": 2,
+    "type": "past"
+  },
+  {
+    "question": "Have you ever wanted to harm yourself?",
+    "category": 2,
+    "type": "past"
+  },
+  {
+    "question": "Was there anything in your life you worked really hard for but felt like it was for nothing? ",
+    "category": 2,
+    "type": "past"
+  },
+  {
+    "question": "When did you last cry in front of another person?",
+    "category": 2,
+    "type": "past"
+  },
+  {
+    "question": "What tough moments do you never bring up when you talk about your life?",
+    "category": 2,
+    "type": "past"
+  },
+  {
+    "question": "What's the closest you've come to thinking you didn't deserve to live?",
+    "category": 2,
+    "type": "past"
+  },
+  {
+    "question": "What’s the meanest thing you’ve ever done to another person?",
+    "category": 2,
+    "type": "past"
+  },
+  {
+    "question": "Share a photo or video of yourself when you were younger.",
+    "category": 2,
+    "type": "past"
+  },
+  {
+    "question": "What's been the greatest peer pressure you've felt as an adult?",
+    "category": 2,
+    "type": "past"
+  },
+  {
+    "question": "What lesson did you learn early on that you've continued to follow throughout life?",
+    "category": 2,
+    "type": "past"
+  },
+  {
+    "question": "Has there ever been a time you've had to handle peer pressure?",
+    "category": 2,
+    "type": "past"
+  },
+  {
+    "question": "What are some of the luckiest moments you've had in your life so far?",
+    "category": 2,
+    "type": "past"
+  },
+  {
+    "question": "Have you ever been in a situation where you struggled with doing the right thing?",
+    "category": 2,
+    "type": "past"
+  },
+  {
+    "question": "If you could thank one teacher for what they taught you, who would it be and why?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "Is there anything early on in your life you're glad to have accomplished?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "What do you think you'll miss about today when you look back many years from now?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "What are some of the happiest or fondest memories you've had?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "What's the biggest secret you keep from everybody you know?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "What did you feel really insecure about when you were younger? ",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "Were there any decisions that seemed important at the time, but didn't matter in the long run?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "Is there something you've stopped believing in that would make your ten year old self depressed?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "What's something you've learnt in the past year that has been important to your growth?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "Have you gotten better at anything as you've grown older? And how did you get better?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "What do you miss about being a kid?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "Of all the things you've done so far, what are you most proud of?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "If your 90 old self were to give you advice right now, what would they say?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "What's something important that you never talk about with your friends?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "Do you feel like you're still figuring out who you are, or do you think you have a good grasp?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "Do you think your family background helped you become the person you are today?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "What’s the best thing about your life right now?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "Ask your partner: How are you?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "Have you had a wish already come true?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "What's one thing about your life you already regret?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "How would you describe yourself at your worst?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "Is there anything you think should be easy but is still stupidly hard?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "Do you have any secret desires you don't want anyone to know about?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "Have you ever had a dream that was too far-fetched to pursue? What brought you to question that dream?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "What are the top three possessions in your life that give you the most happiness?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "When you're older, what do you think your children will ask you to tell stories about?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "What’s the best lesson you’ve learned from a fictional story?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "What’s the most surprising self-realisation you've learnt in your life so far?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "What are you most insecure about right now?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "What's the most important lesson you've learnt by hearing other people's stories?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "If your life were chapters in a novel, what would this current chapter be called?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "What do you believe 'adulting' means? How do you define a mature adult?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "If every occupation earnt you the same amount of money, would you do anything different to what you're doing now? ",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "Would you value the same things if you grew up in another family?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "If someone asked you whether you were happy a year ago, how would you respond?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "What's the hardest part about being yourself?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "Do you miss your old self?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "What's your biggest fear?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "What's the worst pain you've experienced?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "What's one thing you find a struggle that makes your life feel more rewarding?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "Is there anything you think you're doing really well at?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "Have you ever been intimidated by a person's appearance, but realised they were less scary than you imagined?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "Where in your life do you feel most loved?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "What's been the most significant learning experience you've had in the last year?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "Is there anything you're doing in your life that doesn't matter to you at all?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "What's the biggest insights you've taken away from university?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "Was there a time where you struggled to follow what you felt was right?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "If another person lived through your experiences, what do you think they would learn?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "Were there any goals you had to achieve as you were growing up, that you really hated working towards at the time?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "If you were more confident about your ideas, what would you be doing right now?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "How would you go about thinking through an important life decision, such as living in another country?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "If someone had to guess what you cared about by the friends you’ve chosen, what would they say?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "If you had to describe the single worst thing a friend could do, what would it be?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "Have you ever worked with someone you didn't get along with who ultimately made you grow?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "Have you ever wanted to kiss someone you were just friends with?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "Is there anything you wouldn't call cheating that you think others would?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "Do you have many friends of the opposite sex? What is it about those relationships that you can't find through friends of your own gender?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "Have you ever unintentionally bullied someone?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "When was the last time you had to break someone's heart?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "If you could spend a week in the body of one of your friends or family, who would it be?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "If a very close friend learned she had only 6 months to live, would you give up a full-time job in order to spend more time with her?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "If everyone had access to every thought and feeling you had for a week, who would learn the most about you?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "If your funeral was tomorrow, who would speak at the eulogy and what would they say?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "If you could choose the songs that would play at your funeral, what would they be?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "If your friends were willing to tell you about your weaknesses, what do you think they might say?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "Who in your life would be a completely different person if they never crossed paths with you?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "Has there been a time where you felt terribly alone? If so, how do you want people to comfort you in that situation?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "When was the last time you hurt someone? Was it accidental or on purpose?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "Have you ever felt like a burden towards your parents?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "Tell me about a time where you were so embarrassed, you wished you could disappear.",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "Who is the one person in the world who knows you the best?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "Have you ever been in a relationship where your connection with your partner didn't feel genuine or real?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "Do you hope to grow up to be more like your mother or your father?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "What do you do when you need attention from other people?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "What's one thing people assume when they first meet you that you wish wasn't true?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "If people knew how you entertained yourself when you were alone, would they find you weird?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "Of the friends you no longer talk to, who do you miss the most?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "If you were to die tonight without saying any last words to your friends and family, what would you regret holding back on?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "If you were going to become a close friend of the person you’re with, share something that would be important for them to know.",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "Who in your life do you wish you'd met sooner?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "Who's the most down-to-earth person you know?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "What do you like about the other person in this conversation with you?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "If you met one of your closest friends five years earlier than you did, do you think your relationship would be the same?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "How hard do you think it is to love you?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "Growing up, did you have a rebellious phase with your parents?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "If you and your best friend were writing a movie about yourselves, what the story be about?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "Who have been the figures in your life who have made the biggest impact on you so far?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "If you could read everyone’s minds for one week and knew exactly what their true intentions were, what would you see?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "What do you think people say about you behind your back?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "Of all of your friends, whose death would you find most disturbing?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "What's a good sign you know you can trust someone?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "What's three non-physical things that can make a person attractive to you?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "What's one thing you want your friends or loved ones to be better at than you are?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "What's something you want people to remember about you, long after you've passed away?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "What do you wish you understood about your parents?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "Have there been moments where you felt you didn't have close friends at all?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "Do you have a side of you that even your friends and family don't know about?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "What are some signs that a person is secretly unhappy?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "Do you think your self-image is different from other people's impressions of you? How?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "What do you love most about your best friend?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "Is there anyone in your circles you want to wish happiness to right now?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "Complete the sentence: I really wish other people knew that...",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "At the end of your life, would you rather make a lot of mistakes and have lots of stories to tell, or have very few stories but know you made a lot of smart decisions?",
+    "category": 2,
+    "type": "worldview"
+  },
+  {
+    "question": "Do you think everyone your age has seen the worst of themselves by now? ",
+    "category": 2,
+    "type": "worldview"
+  },
+  {
+    "question": "If you could live forever, would you rather have a partner who was older and world-wise, or someone who was seeing things for the first time? Why?",
+    "category": 2,
+    "type": "worldview"
+  },
+  {
+    "question": "If you could be young again, what would you do differently?",
+    "category": 2,
+    "type": "worldview"
+  },
+  {
+    "question": "Would you ever want to be a teenager again?",
+    "category": 2,
+    "type": "worldview"
+  },
+  {
+    "question": "Have you ever watched a scene from a movie that made you cry or blow your mind?",
+    "category": 2,
+    "type": "worldview"
+  },
+  {
+    "question": "Do you think it's harder to get suicidal thoughts when you're older? ",
+    "category": 2,
+    "type": "worldview"
+  },
+  {
+    "question": "If you had to give a commencement speech, what would you tell the graduates?",
+    "category": 2,
+    "type": "worldview"
+  },
+  {
+    "question": "If you had to write a book, what would be the overarching theme?",
+    "category": 2,
+    "type": "worldview"
+  },
+  {
+    "question": "What's one book you think everyone of your personality type should read?",
+    "category": 2,
+    "type": "worldview"
+  },
+  {
+    "question": "Do you think everything in this world happens for a deeper reason?",
+    "category": 2,
+    "type": "worldview"
+  },
+  {
+    "question": "Your house containing everything you own catches fire. After saving your loved ones and pets you have time to make one final dash to save one item. What would it be?",
+    "category": 2,
+    "type": "worldview"
+  },
+  {
+    "question": "What life-altering things should every person get to experience at least once in their lifetimes?",
+    "category": 2,
+    "type": "worldview"
+  },
+  {
+    "question": "What's something you're grateful you'll never experience in your lifetime?",
+    "category": 2,
+    "type": "worldview"
+  },
+  {
+    "question": "Do you feel it's more important to constantly expand your horizons, or to be okay with what you have?",
+    "category": 2,
+    "type": "worldview"
+  },
+  {
+    "question": "Do you think seeking truth is a way of life, or a phase people go through when growing up?",
+    "category": 2,
+    "type": "worldview"
+  },
+  {
+    "question": "What's one thing you're certain that you have no clue about?",
+    "category": 2,
+    "type": "worldview"
+  },
+  {
+    "question": "Do you believe that ignoring other people's opinions is the best way to find your true self?",
+    "category": 2,
+    "type": "worldview"
+  },
+  {
+    "question": "What did you fear most about becoming an adult?",
+    "category": 2,
+    "type": "worldview"
+  },
+  {
+    "question": "Do you like the idea of moving some place new? If not, what would it take for you to move?",
+    "category": 2,
+    "type": "worldview"
+  },
+  {
+    "question": "If you never had to work in a formal setting, what projects would you work on?",
+    "category": 2,
+    "type": "worldview"
+  },
+  {
+    "question": "Would you still have children if you were diagnosed with a disease your children would likely inherit from you?",
+    "category": 2,
+    "type": "worldview"
+  },
+  {
+    "question": "Do you think it's possible to live a life without any regrets? If not, what type of regrets would you be okay with?",
+    "category": 2,
+    "type": "worldview"
+  },
+  {
+    "question": "What book, film or piece of art best represents your philosophy on life?",
+    "category": 2,
+    "type": "worldview"
+  },
+  {
+    "question": "Do you find it easy to remain optimistic about people when things go wrong?",
+    "category": 2,
+    "type": "worldview"
+  },
+  {
+    "question": "What idea do you strongly suspect is true but have no proof of?",
+    "category": 2,
+    "type": "worldview"
+  },
+  {
+    "question": "If you could have everything your heart desired, would you be happy?",
+    "category": 2,
+    "type": "worldview"
+  },
+  {
+    "question": "What's the biggest question you have about the future?",
+    "category": 2,
+    "type": "worldview"
+  },
+  {
+    "question": "Would you rather lose your memories from birth to now, or lose your ability to make new long-term memories?",
+    "category": 2,
+    "type": "worldview"
+  },
+  {
+    "question": "Which fields in the arts or sciences are most influential to you in the way you think?",
+    "category": 2,
+    "type": "worldview"
+  },
+  {
+    "question": "Do you think technology on the whole, has helped us become better human beings? Or has it made us more isolated?",
+    "category": 2,
+    "type": "worldview"
+  },
+  {
+    "question": "How often do you feel left out?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "Is there someone in your life you wish you never met?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "Ask your partner: What's the biggest question you have about me?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "What do you think is something that will never change about you?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "What's something from the past you wish you could remember?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "Do you know what it's like to be loved?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "What does it mean to be in a relationship with someone?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "Are you ever afraid that when you're older, you'll forget what it's like to be young?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "Do you feel like you put on a persona when you're around other people?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "Do you feel like you're the same person on social media as you are in real life?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "Is there anything you miss about being in school?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "What do you wish to see, hear or experience for the first time again?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "What are your best late night memories?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "Do you ever feel underappreciated?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "Do you feel like you spend enough time with the people you care about?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "Do you have a best friend?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "What in your life did you have to learn the hard way?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "How would you react if you had to go without talking to anyone for a week?",
+    "category": 2,
+    "type": "character"
+  },
+  {
+    "question": "Have you ever made a wrong choice because you listened to someone else?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "Name one thing that's become more important to you in the last year, and one thing that's no longer as important.",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "List three questions for which you urgently need answers.",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "Has there been anything you thought would only happen to other people, that has happened to you?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "What's one thing you want to learn more about, but haven't gotten to yet?",
+    "category": 0,
+    "type": "aspirations"
+  },
+  {
+    "question": "What's something you want to do in the coming year that you've never done before?",
+    "category": 0,
+    "type": "aspirations"
+  },
+  {
+    "question": "If school was free and marks didn't matter, what classes would you try taking?",
+    "category": 0,
+    "type": "aspirations"
+  },
+  {
+    "question": "What's something that's happening your life that you're really looking forward to? ",
+    "category": 0,
+    "type": "aspirations"
+  },
+  {
+    "question": "What is one thing you can't go a day without doing?",
+    "category": 0,
+    "type": "character"
+  },
+  {
+    "question": "What's one skill you're not naturally good at that you wish you could pick up?",
+    "category": 0,
+    "type": "character"
+  },
+  {
+    "question": "What colour best represents who you are?",
+    "category": 0,
+    "type": "character"
+  },
+  {
+    "question": "What's the most undesirable trait you have?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "If you had to change your name, what would your new name be and why? ",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What's something that your friends think is 'so you'?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What do you feel least insecure about?",
+    "category": 0,
+    "type": "character"
+  },
+  {
+    "question": "Are there any skills or activities you naturally gravitate towards?",
+    "category": 0,
+    "type": "character"
+  },
+  {
+    "question": "Is there anything in your life you spend a ridiculous amount of money on?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What was the last thing you bought that was a complete waste of money?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What are some weird food combinations you really enjoy?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What stereotype do you completely live up to?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What are you like when you're drunk?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What are the most interesting apps you use?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What would you do if you were the opposite gender for a month?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What's the most unique way you can think of to celebrate your own birthday?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "How seriously do you take horoscopes?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What's the one law you'd love to break if there were no consequences to breaking it?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What subject do you know a surprising amount about, yet never studied in university?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What's the real story behind the last Instagram picture you posted?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What songs do you end up playing during long drives?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "Which season do you look forward to the most?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What was the worst haircut you've ever gotten?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What's your favourite breakfast cereal?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "Do you collect anything?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What was the first thing you bought with your own money?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What's one vice you know you should stop doing but don't want to?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What food do you love eating from your parents?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "If you were a pizza topping what would you be and why?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "How do you like your eggs?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "Were you much of a gamer when you were younger? If so, what were your favourite games and what made you want to play them? ",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What’s the most illegal thing you’ve done up until this point?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "Would you rather never lose your wallet or your phone?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What's the worst pickup line you can think of?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What was it like to work at your first job?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "Have you ever had déjà vu or an out of body experience? ",
+    "category": 0,
+    "type": "past"
+  },
+  {
+    "question": "What's the most expensive thing you've broken?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "Name one supposedly bad quality you wouldn’t mind in a partner.",
+    "category": 0,
+    "type": "relationships"
+  },
+  {
+    "question": "How do people find out you have a crush on them?",
+    "category": 0,
+    "type": "relationships"
+  },
+  {
+    "question": "What is your favourite gift that you've ever given someone, and what gift have you received is your favourite?",
+    "category": 0,
+    "type": "relationships"
+  },
+  {
+    "question": "If you could learn a musical instrument, which one would you choose and what would you play? ",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "Would you prefer to live somewhere busy like New York City or somewhere quiet like Portland, Oregon?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What are the things about your own sex that confuse you the most?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What’s something horrible that everyone should try at least once?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "If the world stopped for an hour and you were the only one who could move, what would you do?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What do you think is one benefit of getting older?",
+    "category": 0,
+    "type": "worldview"
+  },
+  {
+    "question": "What age do you think is the prime of your life?",
+    "category": 0,
+    "type": "worldview"
+  },
+  {
+    "question": "How much would you pay for a day of good weather?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What's one problem you have in your life that you would pay to get fixed?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What's one thing about the opposite sex that creeps you out?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What's your favourite way to subtly mess with people?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "Would you prefer a wild, turbulent life filled with joy, sorrow, intoxicating success and loss; or a happy, secure, predictable life without wide swings of fortune?",
+    "category": 1,
+    "type": "aspirations"
+  },
+  {
+    "question": "If you were to give one piece of advice to your teenage self, what would it be?",
+    "category": 1,
+    "type": "aspirations"
+  },
+  {
+    "question": "What are some of the ways you wish to make other people's lives better?",
+    "category": 1,
+    "type": "aspirations"
+  },
+  {
+    "question": "What's one thing people misunderstand about you?",
+    "category": 1,
+    "type": "character"
+  },
+  {
+    "question": "Do you think you're the type of person that changes depending on the situation, or stays relatively the same?",
+    "category": 1,
+    "type": "character"
+  },
+  {
+    "question": "What do you imagine your hobbies will be when you're 65?",
+    "category": 1,
+    "type": "character"
+  },
+  {
+    "question": "If you could gain one quality you admire in another person, what would you choose?",
+    "category": 1,
+    "type": "character"
+  },
+  {
+    "question": "Would you rather devote yourself to a single career for the next twenty years, or prefer to zig-zag through many different career paths?",
+    "category": 1,
+    "type": "character"
+  },
+  {
+    "question": "If you had to talk your friends and colleagues using only one of the following—phone, text, email, or social media—which would you choose? How would it change your relationships?",
+    "category": 1,
+    "type": "character"
+  },
+  {
+    "question": "What decade and genre of music feels most like you?",
+    "category": 1,
+    "type": "character"
+  },
+  {
+    "question": "What's one thing you think makes you unique from other people?",
+    "category": 1,
+    "type": "character"
+  },
+  {
+    "question": "What's one song that describes who you are to your core?",
+    "category": 1,
+    "type": "character"
+  },
+  {
+    "question": "Do you trust your head or your heart more?",
+    "category": 1,
+    "type": "character"
+  },
+  {
+    "question": "What's one thing you do easily that most of your friends find very hard?",
+    "category": 1,
+    "type": "character"
+  },
+  {
+    "question": "Think about the one or two things you're great at. Do you think they are learned skills or does it require some deeper understanding that you can't simply learn?",
+    "category": 1,
+    "type": "character"
+  },
+  {
+    "question": "What can you talk about for hours?",
+    "category": 1,
+    "type": "character"
+  },
+  {
+    "question": "What's the most normal thing about you?",
+    "category": 1,
+    "type": "character"
+  },
+  {
+    "question": "What type of art can you always appreciate from others but never see yourself doing? ",
+    "category": 1,
+    "type": "character"
+  },
+  {
+    "question": "When you go to a new place, would you prefer to plan every last detail or be free to wander around with no set schedule? Is one more natural to you than the other?",
+    "category": 1,
+    "type": "character"
+  },
+  {
+    "question": "What do you think your true mental age is?",
+    "category": 1,
+    "type": "character"
+  },
+  {
+    "question": "Name three things that reliably stress you out.",
+    "category": 1,
+    "type": "character"
+  },
+  {
+    "question": "If you have to figure out whether a person thinks similarly to you, what characteristics would you look out for?",
+    "category": 1,
+    "type": "character"
+  },
+  {
+    "question": "What do you really, really like doing?",
+    "category": 1,
+    "type": "character"
+  },
+  {
+    "question": "Are you the type of person who likes to set concrete goals, create a long-term vision or only plan when strictly necessary to?",
+    "category": 1,
+    "type": "character"
+  },
+  {
+    "question": "What would a mirror opposite of yourself be like?",
+    "category": 1,
+    "type": "character"
+  },
+  {
+    "question": "Do you have a vivid imagination? If so, what do you think up?",
+    "category": 1,
+    "type": "character"
+  },
+  {
+    "question": "Would you rather have low self-esteem, or have too much?",
+    "category": 1,
+    "type": "character"
+  },
+  {
+    "question": "What do you think you're really good at?",
+    "category": 1,
+    "type": "character"
+  },
+  {
+    "question": "Do you think you're going to become younger or older in spirit as you age?",
+    "category": 1,
+    "type": "character"
+  },
+  {
+    "question": "If you were given a chance to go either tour the solar system or visit 20 different countries, which one you choose and why?",
+    "category": 1,
+    "type": "fun"
+  },
+  {
+    "question": "What was your favourite university or high school class?",
+    "category": 1,
+    "type": "fun"
+  },
+  {
+    "question": "How would you feel if you found out you had secret admirers?",
+    "category": 1,
+    "type": "fun"
+  },
+  {
+    "question": "What is on your list of things you never want to do again?",
+    "category": 1,
+    "type": "fun"
+  },
+  {
+    "question": "When was the last time you got burnt out? What circumstances pushed you to the edge?",
+    "category": 1,
+    "type": "past"
+  },
+  {
+    "question": "Describe some of the music phases you went through when you were younger. Did your taste change depending on which period you were at in your life?",
+    "category": 1,
+    "type": "past"
+  },
+  {
+    "question": "Was there something you've done which didn't look like it was a great investment of your time but turned out to be very important later on?",
+    "category": 1,
+    "type": "past"
+  },
+  {
+    "question": "How did you decide on your major? What did you feel about the alternatives?",
+    "category": 1,
+    "type": "past"
+  },
+  {
+    "question": "Have you ever experienced anything you thought was going to be amazing but turned out to be completely underwhelming?",
+    "category": 1,
+    "type": "past"
+  },
+  {
+    "question": "If any of your memories could be made into a short film, what would it be?",
+    "category": 1,
+    "type": "past"
+  },
+  {
+    "question": "Did you ever keep a journal?",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "What do you think about when you're by yourself?",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "Have you ever made a mistake in the past that you would go back and repeat?",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "What are the three feelings you feel the most in your day to day life?",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "What do you do if you know you're being irrationally jealous about someone else's success?",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "What's something you used to struggle with, but don't anymore?",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "What's some advice you've gotten that you should not have followed? ",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "How did you spend most of your free time as a child? What kinds of activities did you like to do by yourself, with friends or parents? ",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "If you could answer the question: 'what would you do?' in any way possible, what would you say?",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "When did you first realise you were no longer a teenager?",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "Describe your life today in one sentence.",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "What do you do when you feel the need to procrastinate?",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "What are the differences in the world today from when you were a child?",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "Have you done anything stupid that you couldn't help but keep doing again and again?",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "If your life was a movie, what would it be its name and genre?",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "What did you think you'd grow out of but haven’t yet?",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "Complete the sentence: Life would be boring if I...",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "What's one thing you wished you knew about university before going?",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "How do you think your gender has influenced the way you see the world?",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "What are some of the most meaningless things you've done in your life? How much would you pay for an hour of this time back?",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "How do you come up with your most interesting ideas? Where do they come from?",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "What have been some of the best investments of your time, money and energy that are just beginning to pay off today?",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "Do you ever stay friends with your exes?",
+    "category": 1,
+    "type": "relationships"
+  },
+  {
+    "question": "Which parent are you closer to? Has that changed over time?",
+    "category": 1,
+    "type": "relationships"
+  },
+  {
+    "question": "Have you ever had a date go past 1AM? ",
+    "category": 1,
+    "type": "relationships"
+  },
+  {
+    "question": "Have you ever secretly lusted after someone without that person knowing?",
+    "category": 1,
+    "type": "relationships"
+  },
+  {
+    "question": "Have you ever dropped subtle hints to someone you liked hoping they would pick up on it?",
+    "category": 1,
+    "type": "relationships"
+  },
+  {
+    "question": "What is the sweetest birthday card or gift you've given?",
+    "category": 1,
+    "type": "relationships"
+  },
+  {
+    "question": "What's the best compliment your friends could ever say to you?",
+    "category": 1,
+    "type": "relationships"
+  },
+  {
+    "question": "What do you think are the signs that you're in a relationship that's right for you?",
+    "category": 1,
+    "type": "relationships"
+  },
+  {
+    "question": "Do you find that love tends to rush at the beginning of a relationship or does it grow over time? Has your experience been different with different people?",
+    "category": 1,
+    "type": "relationships"
+  },
+  {
+    "question": "What is something you wish people knew more about you?",
+    "category": 1,
+    "type": "relationships"
+  },
+  {
+    "question": "What is the one compliment people always seem to give you?",
+    "category": 1,
+    "type": "relationships"
+  },
+  {
+    "question": "What is the kindest thing another person has done for you?",
+    "category": 1,
+    "type": "relationships"
+  },
+  {
+    "question": "What kind of people do you feel the most uncomfortable around? Are there any who would feel a similar way around you?",
+    "category": 1,
+    "type": "relationships"
+  },
+  {
+    "question": "What's your limit for touching between platonic friends?",
+    "category": 1,
+    "type": "relationships"
+  },
+  {
+    "question": "What's the youngest age that you think people can hold a real romantic relationship?",
+    "category": 1,
+    "type": "relationships"
+  },
+  {
+    "question": "Do you talk to your male friends differently to your female friends? How?",
+    "category": 1,
+    "type": "relationships"
+  },
+  {
+    "question": "What was the story behind your first kiss?",
+    "category": 1,
+    "type": "relationships"
+  },
+  {
+    "question": "What type of people do you look up to for guidance? What do they do well that you get inspired by?",
+    "category": 1,
+    "type": "relationships"
+  },
+  {
+    "question": "What are the two most important aspects of a relationship for you: deep friendship, romantic love, physical attraction or intellectual capacity? Do you believe you can live without the other two?",
+    "category": 1,
+    "type": "relationships"
+  },
+  {
+    "question": "Which of your friends is most similar to you?",
+    "category": 1,
+    "type": "relationships"
+  },
+  {
+    "question": "When people come to you for advice, what do they ask?",
+    "category": 1,
+    "type": "relationships"
+  },
+  {
+    "question": "What's a sign that someone's a genuinely good person?",
+    "category": 1,
+    "type": "relationships"
+  },
+  {
+    "question": "Would you rather have more friends or more time?",
+    "category": 1,
+    "type": "relationships"
+  },
+  {
+    "question": "Is there a friend you're close with today, that you never expected to get close to a few years ago?",
+    "category": 1,
+    "type": "relationships"
+  },
+  {
+    "question": "What's the first thing you notice about a person?",
+    "category": 1,
+    "type": "relationships"
+  },
+  {
+    "question": "Are there any small things you do to make your relationships stronger?",
+    "category": 1,
+    "type": "relationships"
+  },
+  {
+    "question": "How do you think you'll evolve in the next three years?",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "Do you believe in karma?",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "What profession do you have the most respect for?",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "How do you think you would be different if the internet was never invented? ",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "If one day you woke up with a restraining order and amnesia of the past month, what would be the most obvious story behind it?",
+    "category": 1,
+    "type": "fun"
+  },
+  {
+    "question": "If someone gave you enough money to start a business with no strings attached, what kind of business would you start and why?",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "If you had to live with as few items as possible, what is one thing you'd keep that wasn't essential for living?",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "What ideas and lifestyles are you more or less tolerant about now than when you were younger?",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "Have you ever picked up a self-help book? If so, what have you tried that's worked for you, and what hasn't?",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "If you had to live your life in the most interesting and creative way possible, what's one thing you would do differently?",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "If you had to teach a class on one thing, what would you teach?",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "Do you think you need to know your life's purpose when you're young? If not, do you believe you need to have a life's purpose at all?",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "What do you think are the best things to learn within school, and the things you can only learn outside of it?",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "If you heard someone was jealous of you, what would they most likely be jealous of?",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "What do you think is a bad way of defining success?",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "If you were a multi-billionaire like Bill Gates, how much money would you leave behind for your kids? Is there an optimal number for you?",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "What are you interested in that most people aren’t?",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "Which of your vices or bad habits would be the hardest to give up?",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "If you could design your own life like a video game, what rules would you program into it?",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "If you were to raise kids today, what would be your policy on mobile use and social media? ",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "If you were to design a school, what three subjects would you suggest as compulsory for all students to take?",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "If you were given a year to do whatever you wanted, what would you do (after you travelled the world)?",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "When is 'being yourself' poor advice?",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "If you could implant an experience into people's minds, what would you want others to see?",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "What's the worst advice you can give to a 16 year old?",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "Would you rather be unique or normal?",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "What would be the opening sentence of your autobiography?",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "Have you ever sacrificed something in your life to have more freedom?",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "What would your life be like if you could spend less time working?",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "If a businessman, a scientist, and a religious scholar gave you different advice about a problem you currently have, whose advice would you follow?",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "What type of art do you think you have to be the most creative to do?",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "What's one thing other people say you should do that's completely backwards in your opinion?",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "What are some assumptions people make about you, when they don't know you well enough?",
+    "category": 1,
+    "type": "character"
+  },
+  {
+    "question": "Is there anything you find hard to share on social media that's easier face-to-face?",
+    "category": 1,
+    "type": "relationships"
+  },
+  {
+    "question": "Which social media account would be the hardest for you to delete?",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "Do you think there's something to be gained by learning things you're not good at?",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "Does your life leave you enough time to relax?",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "Do you believe you can only change the world if you work more than 40 hours a week?",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "Do you believe there are things you can never get good at even if you tried?",
+    "category": 1,
+    "type": "character"
+  },
+  {
+    "question": "What do you want to be doing when you're 80?",
+    "category": 1,
+    "type": "aspirations"
+  },
+  {
+    "question": "What would you tell someone who's at the age where they're just starting to date?",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "What has been the most memorable birthday you've celebrated growing up?",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "Do you believe relationships would be better without the concept of dating?",
+    "category": 1,
+    "type": "relationships"
+  },
+  {
+    "question": "What have been the most interesting changes you've experienced in the world over the past decade?",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "What's one thing you would remove from your life to make yourself happier?",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "What's something you would miss if you no longer had it?",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "What's something you believe that none of your friends do?",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "What's something you've gotten very easily in your life that lots of other people don't?",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "If you were born in the 80s, how do you think you would have turned out differently?",
+    "category": 0,
+    "type": "reflections"
+  },
+  {
+    "question": "Would you rather be twice as smart as you are now? Or have an extra 8 years to live?",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "Is traveling the world an actual pursuit you have or just a fantasy you like to think about?",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "In your life so far, do you believe you've caused more pain or more pleasure to the people around you?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "Out of the people here, who would you least want to bring in a zombie apocalypse?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "If you were a wrestler what would be your entrance theme song?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "If you were required by law to give your car a name and a gender, what would you pick?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "If you could only keep three apps on your phone, what would you keep?",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "Which TV sitcom would you want to live in?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "If you were a dog, what breed would you be?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What's the weirdest food you've eaten?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "You can have an unlimited supply of one thing for the rest of your life, what is it? Bubble Tea? Earphones?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "If you could listen to one song or watch one movie again for the first time, what would you pick?",
+    "category": 1,
+    "type": "fun"
+  },
+  {
+    "question": "If you could be guaranteed one thing in life (besides money), what would it be?",
+    "category": 2,
+    "type": "worldview"
+  },
+  {
+    "question": "If you had to design your own reality TV show, what would it be?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "Would you rather lose all your photos or your past messaging history?",
+    "category": 1,
+    "type": "relationships"
+  },
+  {
+    "question": "Which time of day best represents you? Sunrise, daylight, afternoon, twilight, or night?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "Did you ever think that high school or university was an endless party because of the movies you watched growing up?",
+    "category": 1,
+    "type": "culture"
+  },
+  {
+    "question": "What’s the most interesting thing you’ve read or experienced this week?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What's the worst that someone's tricked you into believing or doing?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What’s the most useless talent you have?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What do you think it would be like to grow up in the generation after us?",
+    "category": 1,
+    "type": "culture"
+  },
+  {
+    "question": "What’s one thing people wouldn't know just by looking at you?",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "If you could only have one sense (sight, hearing, touch) which would you prefer?",
+    "category": 1,
+    "type": "fun"
+  },
+  {
+    "question": "If you see a puddle on the ground, do you walk around or over it?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "Before making a telephone call, do you ever rehearse what you are going to say? ",
+    "category": 1,
+    "type": "fun"
+  },
+  {
+    "question": "What's one way you could die that your friends would hear and be completely unsurprised about?",
+    "category": 2,
+    "type": "fun"
+  },
+  {
+    "question": "If you could change anything about the way you were raised, what would it be?",
+    "category": 1,
+    "type": "past"
+  },
+  {
+    "question": "What's been the greatest accomplishment of your life so far?",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "Name three things you admire about the other person.",
+    "category": 3,
+    "type": "relationships"
+  },
+  {
+    "question": "Share a personal problem and ask the other person for advice on how he or she might handle it.",
+    "category": 3,
+    "type": "reflections"
+  },
+  {
+    "question": "Is pizza just an open faced sandwich?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What's your ideal breakfast?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What do you hate?",
+    "category": 1,
+    "type": "fun"
+  },
+  {
+    "question": "Do you ever wonder if dogs name humans?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "Have you ever experienced love? If so, when was the first moment you realised?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "Think of a hobby you like. What's something important you need to know before doing it?",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "What is something you really want to buy but won't?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What's the most kind or beautiful thing you've overheard about yourself by accident?",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "If someone borrowed your body for a week, what quirks would you tell them about so they are prepared?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "If you died today, and in the afterlife you're handed a book that contains all stats from your life, which stat will you look up first and why?",
+    "category": 1,
+    "type": "fun"
+  },
+  {
+    "question": "What’s a very common thing that you can't relate to?",
+    "category": 1,
+    "type": "fun"
+  },
+  {
+    "question": "What's the most real relationship advice you can give?",
+    "category": 1,
+    "type": "relationships"
+  },
+  {
+    "question": "What are some small things that you silently judge people on?",
+    "category": 1,
+    "type": "fun"
+  },
+  {
+    "question": "What are some of the best choices you've made in your life?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "What is something that really freaks you out on an existential level?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "What's an absolute turn off about your own personality that you're aware of but can't help?",
+    "category": 1,
+    "type": "character"
+  },
+  {
+    "question": "What's the most memorable moment you shared with a stranger who you never saw again?",
+    "category": 1,
+    "type": "fun"
+  },
+  {
+    "question": "Which year in the past did you feel like you learnt the most about yourself?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "If you had a warning label, what would yours say?",
+    "category": 1,
+    "type": "fun"
+  },
+  {
+    "question": "If you had one day where you couldn't work or talk to people, what would you do?",
+    "category": 1,
+    "type": "character"
+  },
+  {
+    "question": "How do you think you're similar to me?",
+    "category": 3,
+    "type": "relationships"
+  },
+  {
+    "question": "Is it harder for you to focus on the outside world or your inner feelings?",
+    "category": 1,
+    "type": "character"
+  },
+  {
+    "question": "What's your favourite thing about me?",
+    "category": 3,
+    "type": "character"
+  },
+  {
+    "question": "What do you think is the most important lesson you can teach a child?",
+    "category": 2,
+    "type": "worldview"
+  },
+  {
+    "question": "What has been the most memorable moment you've had with me?",
+    "category": 3,
+    "type": "past"
+  },
+  {
+    "question": "If this was your last conversation ever with another person, what would you say?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "What are three positive character traits you don't have?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "What's one idea you live your life by?",
+    "category": 2,
+    "type": "worldview"
+  },
+  {
+    "question": "When you're with me, when do you feel the most cared for?",
+    "category": 3,
+    "type": "relationships"
+  },
+  {
+    "question": "Is there any place or time where you'd like me to give you more attention?",
+    "category": 3,
+    "type": "relationships"
+  },
+  {
+    "question": "What is your favourite sexual fantasy?",
+    "category": 3,
+    "type": "relationships"
+  },
+  {
+    "question": "Is there anything I do that you don't understand?",
+    "category": 3,
+    "type": "relationships"
+  },
+  {
+    "question": "Have you ever considered pursuing a totally different career path from the one you're on?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "What was the best party you've ever been to?",
+    "category": 1,
+    "type": "past"
+  },
+  {
+    "question": "Do you think there's a big difference between loving someone and being in love with them?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "What do you think has stayed the same about you ever since high school?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "What do you want to do with me that we've never done before?",
+    "category": 3,
+    "type": "aspirations"
+  },
+  {
+    "question": "Is there anything you've always wanted to ask me?",
+    "category": 3,
+    "type": "relationships"
+  },
+  {
+    "question": "When do you feel most alive?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "Do you feel like you're living life to the fullest?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "What priorities do you have now that are different to what you had in the past?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "What has been the hardest thing to cope with in your life?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "Do you prefer hanging out with introverts or extroverts?",
+    "category": 1,
+    "type": "relationships"
+  },
+  {
+    "question": "Would you prefer to be very intelligent or be very empathetic?",
+    "category": 1,
+    "type": "character"
+  },
+  {
+    "question": "What do you love and hate about your culture?",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "If you had to describe yourself without talking about your name, physical features or the work you do, what would you say?",
+    "category": 2,
+    "type": "worldview"
+  },
+  {
+    "question": "Are there some situations where you think being open-minded is a curse?",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "Is there anything you've said or done in your life that still bothers you?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "How many of the people you went to high school with are still your friends?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "What's the most memorable roadtrip you've been on?",
+    "category": 1,
+    "type": "past"
+  },
+  {
+    "question": "What's one book that's had an impact on you in the last few years?",
+    "category": 1,
+    "type": "worldview"
+  },
+  {
+    "question": "Is there an event in your life you regret not taking a picture for?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "What's a small decision you made that ended up having a big impact on your life?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "How has your life turned out differently to how you imagined it would?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "When was the last time you screamed at the top of your lungs?",
+    "category": 1,
+    "type": "fun"
+  },
+  {
+    "question": "What ice cream flavour do you find absolutely disgusting?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "Is there anything you do right now you hope to grow out of?",
+    "category": 1,
+    "type": "aspirations"
+  },
+  {
+    "question": "You get to be invisible for a day. What would you do?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "If you could dedicate your life to solving one problem, what would it be?",
+    "category": 2,
+    "type": "aspirations"
+  },
+  {
+    "question": "How many friends do you have on Facebook and how many actually mean something to you?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "What's one pet peeve you have that you wish you could get rid of?",
+    "category": 1,
+    "type": "fun"
+  },
+  {
+    "question": "If you had 6 hours of free time, what would you do to pass it?",
+    "category": 1,
+    "type": "fun"
+  },
+  {
+    "question": "What's the silliest thing you've heard people say about you?",
+    "category": 1,
+    "type": "fun"
+  },
+  {
+    "question": "Do you have any ridiculous bucket list items you want to do before you die?",
+    "category": 2,
+    "type": "fun"
+  },
+  {
+    "question": "What's the most spontaneous thing you've ever done?",
+    "category": 1,
+    "type": "past"
+  },
+  {
+    "question": "What personality trait do you wish you had?",
+    "category": 1,
+    "type": "character"
+  },
+  {
+    "question": "In 40 years, what do you think you'll be the most nostalgic about?",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "Would you rather go to a bar, a house party or a small gathering of 4-5 people?",
+    "category": 1,
+    "type": "fun"
+  },
+  {
+    "question": "Are any of your friends completely opposite to you?",
+    "category": 1,
+    "type": "relationships"
+  },
+  {
+    "question": "What's the most important object you own?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "What makes a person beautiful to you?",
+    "category": 3,
+    "type": "worldview"
+  },
+  {
+    "question": "What's the biggest favour you've done for a friend?",
+    "category": 3,
+    "type": "relationships"
+  },
+  {
+    "question": "If you could turn into your partner for a day, what would you want to try?",
+    "category": 3,
+    "type": "curiosity"
+  },
+  {
+    "question": "What classes would you love to take together?",
+    "category": 3,
+    "type": "culture"
+  },
+  {
+    "question": "What would be your perfect day?",
+    "category": 3,
+    "type": "aspirations"
+  },
+  {
+    "question": "What's the worst name you could give a child?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "In an ideal world, what job do you think you were born to do?",
+    "category": 2,
+    "type": "aspirations"
+  },
+  {
+    "question": "What percentage of your life do you feel truly alive?",
+    "category": 2,
+    "type": "aspirations"
+  },
+  {
+    "question": "How much do you care about double texting?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What's the worst pickup line you've heard or used?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What's the most embarrassing thing you've done to try to get your crush's attention?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "Was there ever a time where you couldn't stop wetting the bed?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What was your worst bout of food poisoning?",
+    "category": 0,
+    "type": "past"
+  },
+  {
+    "question": "What was the worst outing you've had with me?",
+    "category": 3,
+    "type": "past"
+  },
+  {
+    "question": "What phrase or sentence do I use way too much?",
+    "category": 3,
+    "type": "character"
+  },
+  {
+    "question": "Who do you think is better at managing finances?",
+    "category": 3,
+    "type": "character"
+  },
+  {
+    "question": "Imitate how your partner behaves when they get angry.",
+    "category": 3,
+    "type": "fun"
+  },
+  {
+    "question": "What did you think about when you first met me?",
+    "category": 3,
+    "type": "past"
+  },
+  {
+    "question": "Who's more likely to be running late?",
+    "category": 3,
+    "type": "fun"
+  },
+  {
+    "question": "Who's the better driver?",
+    "category": 3,
+    "type": "fun"
+  },
+  {
+    "question": "Who's more likely to get lost?",
+    "category": 3,
+    "type": "fun"
+  },
+  {
+    "question": "Who's more likely to be the star of a bad reality TV show?",
+    "category": 3,
+    "type": "fun"
+  },
+  {
+    "question": "What's something you hate about modern dating?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "What's the coolest thing you've done by yourself?",
+    "category": 2,
+    "type": "past"
+  },
+  {
+    "question": "What do you do when you want to show your love for someone else?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "What percentage of people your age do you think have experienced real heartbreak?",
+    "category": 2,
+    "type": "relationships"
+  },
+  {
+    "question": "How do you feel about your age?",
+    "category": 2,
+    "type": "worldview"
+  },
+  {
+    "question": "What's one thing you've done you wouldn't let anyone else do?",
+    "category": 2,
+    "type": "past"
+  },
+  {
+    "question": "Who's more likely to lock themselves out of their house?",
+    "category": 3,
+    "type": "fun"
+  },
+  {
+    "question": "Who's more likely to do weird things in public?",
+    "category": 3,
+    "type": "fun"
+  },
+  {
+    "question": "What was the first concert you ever went to?",
+    "category": 1,
+    "type": "past"
+  },
+  {
+    "question": "What kind of parent do you think you'd be?",
+    "category": 3,
+    "type": "aspirations"
+  },
+  {
+    "question": "Do you think I'm any good at reading what you're feeling?",
+    "category": 3,
+    "type": "relationships"
+  },
+  {
+    "question": "For the next whole day we have with each other, how would you want to spend it?",
+    "category": 3,
+    "type": "aspirations"
+  },
+  {
+    "question": "Explore space, or explore the ocean. Which would you sign up for?",
+    "category": 1,
+    "type": "fun"
+  },
+  {
+    "question": "What do you think is the perfect amount of people to invite for a house party?",
+    "category": 1,
+    "type": "fun"
+  },
+  {
+    "question": "If there anyone in your life you secretly think would be better off without you?",
+    "category": 2,
+    "type": "relationships"
+  }
+]
