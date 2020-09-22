@@ -21,6 +21,7 @@ class AppState extends ChangeNotifier {
 
   set category(int category) {
     _category = category;
+    _index = 0;
     notifyListeners();
   }
 
