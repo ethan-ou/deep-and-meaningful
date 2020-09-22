@@ -56,9 +56,14 @@ class AppState extends ChangeNotifier {
   }
 
   List<Question> _filterQuestions(List<Question> questionList, int category) {
-    List<Question> newQuestions = questionList
-        .where((question) => question.category == category)
-        .toList();
+    List<Question> newQuestions = questionList.where((question) {
+      // For Intimate category, return all Deep questions too
+      if (category == 3) {
+        return question.category == 2 || question.category == 3;
+      } else {
+        return question.category == category;
+      }
+    }).toList();
 
     newQuestions.shuffle();
 
