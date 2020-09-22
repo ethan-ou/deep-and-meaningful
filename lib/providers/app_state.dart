@@ -3,17 +3,7 @@ import 'package:flutter/material.dart';
 
 class AppState extends ChangeNotifier {
   int _category = 0;
-  int _index = 0;
   List<Question> _questions = [];
-  List<Question> _activeQuestions = [];
-
-  Question get question {
-    if (_activeQuestions.length == 0) {
-      _activeQuestions = _filterQuestions(_questions, _category);
-    }
-
-    return _activeQuestions[_index];
-  }
 
   get category {
     return _category;
@@ -21,24 +11,7 @@ class AppState extends ChangeNotifier {
 
   set category(int category) {
     _category = category;
-    _index = 0;
     notifyListeners();
-  }
-
-  void next() {
-    if (_index == _activeQuestions.length - 1) {
-      addQuestions();
-    }
-
-    _index++;
-    notifyListeners();
-  }
-
-  void prev() {
-    if (_index > 0) {
-      _index--;
-      notifyListeners();
-    }
   }
 
   void populateQuestions(List<Question> questions) {
@@ -46,23 +19,13 @@ class AppState extends ChangeNotifier {
     notifyListeners();
   }
 
-  void addQuestions() {
-    _activeQuestions.addAll(_filterQuestions(_questions, _category));
-    notifyListeners();
-  }
-
-  void loadQuestions() {
-    _activeQuestions = _filterQuestions(_questions, _category);
-    notifyListeners();
-  }
-
-  List<Question> _filterQuestions(List<Question> questionList, int category) {
-    List<Question> newQuestions = questionList.where((question) {
+  List<Question> getQuestions() {
+    List<Question> newQuestions = _questions.where((question) {
       // For Intimate category, return all Deep questions too
-      if (category == 3) {
+      if (_category == 3) {
         return question.category == 2 || question.category == 3;
       } else {
-        return question.category == category;
+        return question.category == _category;
       }
     }).toList();
 

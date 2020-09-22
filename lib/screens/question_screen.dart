@@ -1,3 +1,4 @@
+import 'package:deep_and_meaningful/models/question.dart';
 import 'package:deep_and_meaningful/providers/app_state.dart';
 import 'package:deep_and_meaningful/providers/theme_state.dart';
 import 'package:deep_and_meaningful/routes.dart';
@@ -10,9 +11,44 @@ import 'package:provider/provider.dart';
 import 'package:deep_and_meaningful/utils.dart';
 import 'package:share/share.dart';
 
-class QuestionScreen extends StatelessWidget {
+class QuestionScreen extends StatefulWidget {
+  @override
+  _QuestionScreenState createState() => _QuestionScreenState();
+}
+
+class _QuestionScreenState extends State<QuestionScreen> {
+  int _index = 0;
+  List<Question> _activeQuestions = [];
+
+  initState() {
+    super.initState();
+    _activeQuestions = context.read<AppState>().getQuestions();
+  }
+
+  void next(List<Question> cb) {
+    if (_index == _activeQuestions.length - 1) {
+      setState(() {
+        _activeQuestions.addAll(cb);
+      });
+    }
+
+    setState(() {
+      _index++;
+    });
+  }
+
+  void prev() {
+    if (_index > 0) {
+      setState(() {
+        _index--;
+      });
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
+    Question question = _activeQuestions[_index];
+
     return OrientationList(
       padding: const EdgeInsets.only(left: 8.0, bottom: 8.0, right: 8.0),
       crossAxisAlignment: CrossAxisAlignment.start,
@@ -39,37 +75,34 @@ class QuestionScreen extends StatelessWidget {
                 color: Theme.of(context).primaryColor),
             iconSize: 40,
             onPressed: () {
-              Provider.of<AppState>(context, listen: false).prev();
+              prev();
             },
           )
         ]),
         SizedBox(height: 10),
-        Consumer<AppState>(
-            builder: (context, app, child) => Container(
-                  margin: const EdgeInsets.all(10.0),
-                  child: Text(
-                    '${capitalize(app.question.type)}',
-                    style: Theme.of(context)
-                        .textTheme
-                        .headline1
-                        .copyWith(fontSize: 48.0),
-                  ),
-                )),
+        Container(
+          margin: const EdgeInsets.all(10.0),
+          child: Text(
+            '${capitalize(question.type)}',
+            style:
+                Theme.of(context).textTheme.headline1.copyWith(fontSize: 48.0),
+          ),
+        ),
         Consumer<AppState>(
             builder: (context, app, child) => Material(
                 child: InkWell(
                     borderRadius: BorderRadius.all(Radius.circular(12.0)),
-                    onLongPress: () => Share.share('${app.question.question}'),
+                    onLongPress: () => Share.share('${question.question}'),
                     child: Container(
                       margin: const EdgeInsets.all(10.0),
-                      child: Text('${app.question.question}',
+                      child: Text('${question.question}',
                           style: TextStyle(fontSize: 26.4)),
                     )))),
       ],
       button: CustomButton(
         text: "Next",
         onPressed: () {
-          Provider.of<AppState>(context, listen: false).next();
+          next(Provider.of<AppState>(context, listen: false).getQuestions());
         },
       ),
     );

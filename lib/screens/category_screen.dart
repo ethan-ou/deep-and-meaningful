@@ -111,7 +111,6 @@ class _CategoryScreenState extends State<CategoryScreen> {
           text: "Begin!",
           onPressed: () {
             Provider.of<AppState>(context, listen: false).category = _category;
-            Provider.of<AppState>(context, listen: false).loadQuestions();
             Navigator.of(context).push(customRoute(QuestionScreen()));
           },
         ));
