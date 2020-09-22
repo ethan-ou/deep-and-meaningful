@@ -5,11 +5,6 @@
     "type": "aspirations"
   },
   {
-    "question": "What type of lessons do you think you'll learn in the next 5 years?",
-    "category": 2,
-    "type": "aspirations"
-  },
-  {
     "question": "Show your partner a song or a scene from a film that made you shed tears.",
     "category": 2,
     "type": "character"
@@ -35,7 +30,7 @@
     "type": "character"
   },
   {
-    "question": "Do you ever worry that you're completely different to everybody else?",
+    "question": "Do you ever feel different to everybody else? If not, has there been a time in your life where you could relate this feeling?",
     "category": 2,
     "type": "character"
   },
@@ -50,7 +45,7 @@
     "type": "character"
   },
   {
-    "question": "What's one common saying that's so out of character for you to adopt?",
+    "question": "What's one common saying that would be out of character for you to adopt?",
     "category": 2,
     "type": "character"
   },
@@ -60,12 +55,12 @@
     "type": "character"
   },
   {
-    "question": "Is there any piece of negative feedback that would absolutely crush you if you heard it from another person?",
+    "question": "Is there any piece of negative feedback that would absolutely crush you to hear from another person?",
     "category": 2,
     "type": "character"
   },
   {
-    "question": "What do you wish you were better at doing?",
+    "question": "What do you wish you were better at?",
     "category": 2,
     "type": "character"
   },
@@ -80,7 +75,7 @@
     "type": "past"
   },
   {
-    "question": "If you could share a past moment you had with a friend, what would you show them? What makes that moment so significant to you?",
+    "question": "If you could share a past moment with someone you met later in life, who would you share that moment with and what would you share? What makes that moment so significant to you?",
     "category": 2,
     "type": "past"
   },
@@ -90,32 +85,27 @@
     "type": "past"
   },
   {
-    "question": "Have you done anything really stupid that in retrospect taught you a lot?",
+    "question": "Have you ever done something that seemed silly at the time, that in retrospect taught you something valuable?",
     "category": 2,
     "type": "past"
   },
   {
-    "question": "What's the darkest moment you've experienced that you've never told anybody?",
+    "question": "What's the darkest moment you've experienced that you've never told anybody about?",
     "category": 2,
     "type": "past"
   },
   {
-    "question": "Have you ever wanted to harm yourself?",
+    "question": "Has there been a time in your life where you've thought about, or committed self-harm? Was there a particular situation that led you to these thoughts or actions?",
     "category": 2,
     "type": "past"
   },
   {
-    "question": "Was there anything in your life you worked really hard for but felt like it was for nothing? ",
+    "question": "Was there anything in your life you worked really hard for, but didn't get the results you wanted?",
     "category": 2,
     "type": "past"
   },
   {
-    "question": "When did you last cry in front of another person?",
-    "category": 2,
-    "type": "past"
-  },
-  {
-    "question": "What tough moments do you never bring up when you talk about your life?",
+    "question": "When was the last time you cried in front of another person?",
     "category": 2,
     "type": "past"
   },
@@ -125,7 +115,7 @@
     "type": "past"
   },
   {
-    "question": "What’s the meanest thing you’ve ever done to another person?",
+    "question": "What’s the most brutal thing you’ve done to another person?",
     "category": 2,
     "type": "past"
   },
@@ -135,7 +125,7 @@
     "type": "past"
   },
   {
-    "question": "What's been the greatest peer pressure you've felt as an adult?",
+    "question": "What's been the greatest peer pressure you've felt so far in your life?",
     "category": 2,
     "type": "past"
   },
@@ -145,22 +135,17 @@
     "type": "past"
   },
   {
-    "question": "Has there ever been a time you've had to handle peer pressure?",
-    "category": 2,
-    "type": "past"
-  },
-  {
     "question": "What are some of the luckiest moments you've had in your life so far?",
     "category": 2,
     "type": "past"
   },
   {
-    "question": "Have you ever been in a situation where you struggled with doing the right thing?",
+    "question": "Have you ever been in a situation where you felt pressued to do something morally ambiguous?",
     "category": 2,
     "type": "past"
   },
   {
-    "question": "If you could thank one teacher for what they taught you, who would it be and why?",
+    "question": "If you could thank one teacher for a lesson they taught you, who would it be and why?",
     "category": 2,
     "type": "reflections"
   },
@@ -185,7 +170,7 @@
     "type": "reflections"
   },
   {
-    "question": "What did you feel really insecure about when you were younger? ",
+    "question": "What did you feel really insecure about when you were younger?",
     "category": 2,
     "type": "reflections"
   },
@@ -320,7 +305,7 @@
     "type": "reflections"
   },
   {
-    "question": "If every occupation earnt you the same amount of money, would you do anything different to what you're doing now? ",
+    "question": "If every occupation earnt you the same amount of money, would you do anything different to what you're doing now?",
     "category": 2,
     "type": "reflections"
   },
@@ -675,7 +660,7 @@
     "type": "worldview"
   },
   {
-    "question": "Do you think everyone your age has seen the worst of themselves by now? ",
+    "question": "Do you think everyone your age has seen the worst of themselves by now?",
     "category": 2,
     "type": "worldview"
   },
@@ -700,7 +685,7 @@
     "type": "worldview"
   },
   {
-    "question": "Do you think it's harder to get suicidal thoughts when you're older? ",
+    "question": "Do you think it's harder to get suicidal thoughts when you're older?",
     "category": 2,
     "type": "worldview"
   },
@@ -950,7 +935,7 @@
     "type": "aspirations"
   },
   {
-    "question": "What's something that's happening your life that you're really looking forward to? ",
+    "question": "What's something that's happening your life that you're really looking forward to?",
     "category": 0,
     "type": "aspirations"
   },
@@ -975,7 +960,7 @@
     "type": "fun"
   },
   {
-    "question": "If you had to change your name, what would your new name be and why? ",
+    "question": "If you had to change your name, what would your new name be and why?",
     "category": 0,
     "type": "fun"
   },
@@ -1105,7 +1090,7 @@
     "type": "fun"
   },
   {
-    "question": "Were you much of a gamer when you were younger? If so, what were your favourite games and what made you want to play them? ",
+    "question": "Were you much of a gamer when you were younger? If so, what were your favourite games and what made you want to play them?",
     "category": 0,
     "type": "fun"
   },
@@ -1130,7 +1115,7 @@
     "type": "fun"
   },
   {
-    "question": "Have you ever had déjà vu or an out of body experience? ",
+    "question": "Have you ever had déjà vu or an out of body experience?",
     "category": 0,
     "type": "past"
   },
@@ -1155,7 +1140,7 @@
     "type": "relationships"
   },
   {
-    "question": "If you could learn a musical instrument, which one would you choose and what would you play? ",
+    "question": "If you could learn a musical instrument, which one would you choose and what would you play?",
     "category": 0,
     "type": "fun"
   },
@@ -1295,7 +1280,7 @@
     "type": "character"
   },
   {
-    "question": "What type of art can you always appreciate from others but never see yourself doing? ",
+    "question": "What type of art can you always appreciate from others but never see yourself doing?",
     "category": 1,
     "type": "character"
   },
@@ -1425,22 +1410,17 @@
     "type": "reflections"
   },
   {
-    "question": "What do you do if you know you're being irrationally jealous about someone else's success?",
-    "category": 1,
-    "type": "reflections"
-  },
-  {
     "question": "What's something you used to struggle with, but don't anymore?",
     "category": 1,
     "type": "reflections"
   },
   {
-    "question": "What's some advice you've gotten that you should not have followed? ",
+    "question": "What's some advice you've gotten that you should not have followed?",
     "category": 1,
     "type": "reflections"
   },
   {
-    "question": "How did you spend most of your free time as a child? What kinds of activities did you like to do by yourself, with friends or parents? ",
+    "question": "How did you spend most of your free time as a child? What kinds of activities did you like to do by yourself, with friends or parents?",
     "category": 1,
     "type": "reflections"
   },
@@ -1525,7 +1505,7 @@
     "type": "relationships"
   },
   {
-    "question": "Have you ever had a date go past 1AM? ",
+    "question": "Have you ever had a date go past 1AM?",
     "category": 1,
     "type": "relationships"
   },
@@ -1660,7 +1640,7 @@
     "type": "worldview"
   },
   {
-    "question": "How do you think you would be different if the internet was never invented? ",
+    "question": "How do you think you would be different if the internet was never invented?",
     "category": 1,
     "type": "worldview"
   },
@@ -1710,16 +1690,6 @@
     "type": "worldview"
   },
   {
-    "question": "If you heard someone was jealous of you, what would they most likely be jealous of?",
-    "category": 1,
-    "type": "worldview"
-  },
-  {
-    "question": "What do you think is a bad way of defining success?",
-    "category": 1,
-    "type": "worldview"
-  },
-  {
     "question": "If you were a multi-billionaire like Bill Gates, how much money would you leave behind for your kids? Is there an optimal number for you?",
     "category": 1,
     "type": "worldview"
@@ -1740,7 +1710,7 @@
     "type": "worldview"
   },
   {
-    "question": "If you were to raise kids today, what would be your policy on mobile use and social media? ",
+    "question": "If you were to raise kids today, what would be your policy on mobile use and social media?",
     "category": 1,
     "type": "worldview"
   },
@@ -1970,11 +1940,6 @@
     "type": "fun"
   },
   {
-    "question": "Did you ever think that high school or university was an endless party because of the movies you watched growing up?",
-    "category": 1,
-    "type": "culture"
-  },
-  {
     "question": "What’s the most interesting thing you’ve read or experienced this week?",
     "category": 0,
     "type": "fun"
@@ -2010,7 +1975,7 @@
     "type": "fun"
   },
   {
-    "question": "Before making a telephone call, do you ever rehearse what you are going to say? ",
+    "question": "Before making a telephone call, do you ever rehearse what you are going to say?",
     "category": 1,
     "type": "fun"
   },
@@ -2573,5 +2538,320 @@
     "question": "If there anyone in your life you secretly think would be better off without you?",
     "category": 2,
     "type": "relationships"
+  },
+  {
+    "question": "What’s the worst birthday gift you ever got?",
+    "category": 1,
+    "type": "fun"
+  },
+  {
+    "question": "If you were filthy rich, what would you still refuse to buy?",
+    "category": 1,
+    "type": "character"
+  },
+  {
+    "question": "What's the most wholesome experience you've had with a stranger?",
+    "category": 1,
+    "type": "past"
+  },
+  {
+    "question": "What's the best non-sexual feeling ever?",
+    "category": 1,
+    "type": "fun"
+  },
+  {
+    "question": "Has there ever been a day or week of your life where everything changed?",
+    "category": 2,
+    "type": "past"
+  },
+  {
+    "question": "What's your top three must read books?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What's something you found out embarrassingly late in your life?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "Have you ever wanted to cut ties with one or more of your parents? And if so, why?",
+    "category": 1,
+    "type": "relationships"
+  },
+  {
+    "question": "What's the worst thing someone's ever done to you?",
+    "category": 1,
+    "type": "past"
+  },
+  {
+    "question": "What's a song you're in love with right now?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "If you could say anything to your ex, what would you say?",
+    "category": 1,
+    "type": "relationships"
+  },
+  {
+    "question": "If you had to describe a hobby of yours in a very suspicious or inappropriate way, what would you say?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "In your opinion, what is the coolest way to die?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What is your favourite thing from another culture that you wish could be part of your own?",
+    "category": 0,
+    "type": "culture"
+  },
+  {
+    "question": "What are your green flags that tell you someone is a good person?",
+    "category": 0,
+    "type": "relationships"
+  },
+  {
+    "question": "Which musician do you think is highly overrated?",
+    "category": 0,
+    "type": "culture"
+  },
+  {
+    "question": "You have no money or access to a bank. You have one hour to get $100. What do you do?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "If you were granted the power to change the general public's attitude towards one thing, what would it be and why?",
+    "category": 0,
+    "type": "culture"
+  },
+  {
+    "question": "Is there anything that motivates you to get out of bed in the morning?",
+    "category": 0,
+    "type": "aspirations"
+  },
+  {
+    "question": "After dying, you get twenty skill points to use on investing in new skills such as speaking, cooking, financial planning etc. What skills would you use these points on and why?",
+    "category": 1,
+    "type": "fun"
+  },
+  {
+    "question": "You are stuck in the universe of a movie that you get to choose. Which movie universe do you pick and why?",
+    "category": 0,
+    "type": "culture"
+  },
+  {
+    "question": "Is there anything you're craving right now?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What's the one question you've always wanted answered?",
+    "category": 0,
+    "type": "curiosity"
+  },
+  {
+    "question": "What's your favourite animal and why?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What's your favorite quote from a book?",
+    "category": 0,
+    "type": "culture"
+  },
+  {
+    "question": "Have you ever had a moment of realisation when you thought to yourself \"I'm old now\"?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What's an interesting thing about your body that only few people know?",
+    "category": 3,
+    "type": "fun"
+  },
+  {
+    "question": "If you could instantly become an expert in something, what would it be?",
+    "category": 0,
+    "type": "aspirations"
+  },
+  {
+    "question": "Is there anything a stranger has done to brighten your day that you still remember?",
+    "category": 1,
+    "type": "past"
+  },
+  {
+    "question": "If you had the power, what would you make illegal?",
+    "category": 1,
+    "type": "culture"
+  },
+  {
+    "question": "Share your worst first date story.",
+    "category": 1,
+    "type": "relationships"
+  },
+  {
+    "question": "How do you deal with the knowledge that one day you will cease to exist?",
+    "category": 2,
+    "type": "reflections"
+  },
+  {
+    "question": "What's something you only do when you're home alone?",
+    "category": 1,
+    "type": "fun"
+  },
+  {
+    "question": "What's something a complete stranger could do to make your day better?",
+    "category": 0,
+    "type": "character"
+  },
+  {
+    "question": "Do you regularly eat a weird food combination that you think is surprisingly good?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What's the largest amount of money you've personally seen someone waste? What did they spend it on?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What's the most rewarding hobby you've tried that you recommend others pick up?",
+    "category": 0,
+    "type": "character"
+  },
+  {
+    "question": "Do you have a talent or ability you had as a child that you regret losing?",
+    "category": 0,
+    "type": "past"
+  },
+  {
+    "question": "Is there any part of getting older that you're looking forward to?",
+    "category": 0,
+    "type": "reflections"
+  },
+  {
+    "question": "What's the biggest lie you've ever told?",
+    "category": 0,
+    "type": "past"
+  },
+  {
+    "question": "What's something you did as a child that you always thought you would outgrow but never did?",
+    "category": 0,
+    "type": "past"
+  },
+  {
+    "question": "What keeps you going in life?",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "At what age did you start cursing?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "However trivial or serious, was there ever an injustice you endured as a child?",
+    "category": 1,
+    "type": "past"
+  },
+  {
+    "question": "What product or service do you think is not worth the price?",
+    "category": 0,
+    "type": "culture"
+  },
+  {
+    "question": "Is there anything stupid you did as a kid that you regret now?",
+    "category": 1,
+    "type": "past"
+  },
+  {
+    "question": "What is the shortest sentence you can use to describe your country, without saying its name?",
+    "category": 0,
+    "type": "culture"
+  },
+  {
+    "question": "What's your best \"screw it, let's do it\" moment?",
+    "category": 1,
+    "type": "past"
+  },
+  {
+    "question": "What advice would you have for couples in their first relationships?",
+    "category": 0,
+    "type": "reflections"
+  },
+  {
+    "question": "Have you ever broken off a long term relationship? Why? And what was the breakup like?",
+    "category": 1,
+    "type": "relationships"
+  },
+  {
+    "question": "What's the weirdest thing all your exes have in common?",
+    "category": 1,
+    "type": "relationships"
+  },
+  {
+    "question": "You have a budget of $50 to buy something fun. What would you buy?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "What would you sell your soul for?",
+    "category": 0,
+    "type": "fun"
+  },
+  {
+    "question": "If you could quit your job and pursue your hobby full-time with financial security, what hobby would you pursue?",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "What's something most people have no trouble with, but you are terrible at?",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "What's one thing that's improved your mental health the most?",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "What's the most meaningful thing a stranger has said to you?",
+    "category": 1,
+    "type": "past"
+  },
+  {
+    "question": "What's the most underwhelming place you've visited in the world so far?",
+    "category": 0,
+    "type": "culture"
+  },
+  {
+    "question": "What do you dislike about your own culture?",
+    "category": 0,
+    "type": "culture"
+  },
+  {
+    "question": "What three words sum up your life right now?",
+    "category": 1,
+    "type": "reflections"
+  },
+  {
+    "question": "What's a personal rule of yours that you refuse to break?",
+    "category": 1,
+    "type": "character"
+  },
+  {
+    "question": "What's something in the future that you wish to live long enough to experience?",
+    "category": 1,
+    "type": "culture"
+  },
+  {
+    "question": "What's something on your mind you need to vent about?",
+    "category": 1,
+    "type": "reflections"
   }
 ]
